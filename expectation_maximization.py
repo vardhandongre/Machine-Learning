@@ -14,9 +14,9 @@ def e_step(x, pi, mu, sigma):
                        numpy array of shape (k, d, d)
     @return     The "soft" assignment of shape (n, k)
     """
-    a = np.asmatrix(np.empty((n,k), dtype = float))
     k = mu.shape[0]
     n, d = x.shape
+    a = np.asmatrix(np.empty((n,k), dtype = float))
     for i in range(n):
         p1 = 0
         for j in range(d):
