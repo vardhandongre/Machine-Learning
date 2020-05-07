@@ -22,3 +22,9 @@ Principles and applications of machine learning. Main paradigms and techniques, 
 * C.M. Bishop, Pattern Recognition and Machine Learning, Springer
 * Ian Goodfellow, Yoshua Bengio & Aaron Courville, Deep Learning, The MIT Press
 * Trevor Hastie Robert Tibshirani & Jerome Friedman, The Elements of Statistical Learning: Data Mining, Inference, and Prediction, Springer Science & Business Media
+
+## Files
+Adaboost.py : Adaboost for Decision Stumps
+
+BPTT_RNN.py: Backpropagation Through Time for Recurrent Neural Network 
+
