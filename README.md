@@ -28,3 +28,9 @@ Adaboost.py : Adaboost for Decision Stumps
 
 BPTT_RNN.py: Backpropagation Through Time for Recurrent Neural Network 
 
+HMM_viterbi.py: Hidden Markov Model based on viterbi algorithm (Dynamic Programming)
+
+PCA_power_method.py: Principal Component Analysis using Power Method
+
+expectation_maximization.py
+
