@@ -1,6 +1,7 @@
 # Machine-Learning 
-Repository for CS 446 at University of Illinois Urbana-Champaign 
-Instructor: Professor Sanmi Koyejo
+Repository for CS 446 at University of Illinois Urbana-Champaign <br>
+Instructor: Professor Sanmi Koyejo <br>
+Term: Fall 2019
 
 ## Course Description:
 Principles and applications of machine learning. Main paradigms and techniques, including discriminative and generative methods, reinforcement learning; linear regression, logistic regression, support vector machines, deep nets, structured methods, dimensionality reduction, k-means, Gaussian mixtures, expectation maximization, Markov decision processes, and Q-learning. Application areas such as natural language and text understanding, speech recognition, computer vision, data mining, and adaptive computer systems, among others
